@@ -94,7 +94,6 @@
 		"sans_bonegap1fast.csv",
 		"sans_platformblasterfast.csv",
 		"sans_spare.csv",
-		"sans_sparehard.csv",
 		"sans_bonestab1.csv",
 		"sans_bonestab2.csv",
 		"sans_boneslidev.csv",
