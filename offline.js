@@ -80,7 +80,7 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"sans_intro.csv",
+		"sans_final.csv",
 		"sans_bonegap1.csv",
 		"sans_bonegap2.csv",
 		"sans_bluebone.csv",
